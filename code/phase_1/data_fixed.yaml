@@ -1,0 +1,20 @@
+train: /home/23CSU030/PRINT_DEFECT_PROJECT/Dataset/train/images
+val: /home/23CSU030/PRINT_DEFECT_PROJECT/Dataset/val/images
+test: /home/23CSU030/PRINT_DEFECT_PROJECT/Dataset/test/images
+nc: 15
+names:
+- broken_extra_wrong_characters
+- colour_difference
+- cropped_image
+- double_printing
+- faded_print
+- incorrect_size
+- ink_spots_on_paper
+- misalignment
+- missing_print
+- missing_section
+- random_black_white_lines
+- smudges
+- tears_wrinkles_folds
+- uneven_ink_density
+- wrong_font
